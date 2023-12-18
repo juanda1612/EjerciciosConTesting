@@ -27,5 +27,6 @@ public class FizzBuzz {
         for (String n2 : n){
             System.out.println(n2);
         }
+
     }
 }
